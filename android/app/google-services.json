@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "130303227201",
+    "firebase_url": "https://projetoacqa-default-rtdb.firebaseio.com",
+    "project_id": "projetoacqa",
+    "storage_bucket": "projetoacqa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130303227201:android:987618b1ea8ba357481dc0",
+        "android_client_info": {
+          "package_name": "com.company.projetoacqa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFmroqKzNs-FrW0-VuR9VpJkQT1GK6ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

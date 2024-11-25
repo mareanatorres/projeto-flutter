@@ -1,0 +1,29 @@
+name: projetoacqa
+description: Um projeto Flutter para gerenciar tarefas diárias, incluindo login, calendário e lista de tarefas.
+
+# Versão do projeto
+version: 1.0.0+1
+
+# Ambiente do Dart SDK
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+# Dependências do aplicativo
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.0 # Configuração principal do Firebase
+  firebase_auth: ^5.3.3 # Autenticação com Firebase
+  cloud_firestore: ^5.5.0 # Banco de dados Firestore
+  provider: ^6.1.2 # Gerenciamento de estado
+  table_calendar: ^3.0.10 # Componente de calendário
+  intl: ^0.19.0 # Formatação de datas e strings
+
+# Dependências para desenvolvimento e testes
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0 # Boas práticas para código Flutter
+
+flutter:
+  uses-material-design: true
